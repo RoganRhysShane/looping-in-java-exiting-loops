@@ -1,7 +1,5 @@
 package com.theironyard;
 
-import com.sun.tools.doclets.formats.html.SourceToHTMLConverter;
-
 /**
  * For this exercise you will write a simple main() method that prints out the
  * following text:
